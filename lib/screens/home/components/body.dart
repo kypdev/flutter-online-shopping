@@ -14,7 +14,7 @@ class Body extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.symmetric(horizontal: kDefaultPadding),
           child: Text(
-            'Women',
+            'Women shop',
             style: Theme.of(context)
                 .textTheme
                 .headline5
